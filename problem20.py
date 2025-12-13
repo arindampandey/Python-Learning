@@ -1,0 +1,5 @@
+s = set()
+s.add(20)
+s.add(20.0)
+s.add("20")
+print(len(s)) # Output : 2 (Coz the python considers only the numeric values , if they are equal then it will consider them same , still even if their datatypes are not same)
