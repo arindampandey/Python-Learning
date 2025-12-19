@@ -1,4 +1,4 @@
-# WAP to accept marks of 6 students and display them in a sorted manner 
+# WAP to accept marks of 6 students and display them in a sorted manner.
 marks = []
 
 m1 = int(input("Enter the marks : "))
