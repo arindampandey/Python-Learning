@@ -1,4 +1,4 @@
-# WAP to find sum of n natural numbers using while loop.
+# WAP to find sum of n natural numbers using while loop .
 n = int(input("Enter the value of n : "))
 
 i = 0
