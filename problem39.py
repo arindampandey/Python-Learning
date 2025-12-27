@@ -1,4 +1,4 @@
-# WAP using functions to find greatest of hree numbers.
+# WAP using functions to find greatest of hree numbers .
 def greatest(a,b,c):
     if(a>b and a>c):
         return a
