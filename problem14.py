@@ -1,4 +1,4 @@
-# WAP to store 7 fruits in a list entered by the user 
+# WAP to store 7 fruits in a list entered by the user.
 fruits = []
 
 f1 = input("Enter fruit name : ")
